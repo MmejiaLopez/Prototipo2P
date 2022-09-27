@@ -1,0 +1,8 @@
+C:\Users\Developer\Desktop\Nueva carpeta (2)\proyectofinalasis222022\Codigo\Componentes\Navegador\Modelo\bin\Debug\Modelo.dll
+C:\Users\Developer\Desktop\Nueva carpeta (2)\proyectofinalasis222022\Codigo\Componentes\Navegador\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Developer\Desktop\Nueva carpeta (2)\proyectofinalasis222022\Codigo\Componentes\Navegador\Modelo\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Developer\Desktop\Nueva carpeta (2)\proyectofinalasis222022\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.AssemblyReference.cache
+C:\Users\Developer\Desktop\Nueva carpeta (2)\proyectofinalasis222022\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\Nueva carpeta (2)\proyectofinalasis222022\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.CopyComplete
+C:\Users\Developer\Desktop\Nueva carpeta (2)\proyectofinalasis222022\Codigo\Componentes\Navegador\Modelo\obj\Debug\Modelo.dll
+C:\Users\Developer\Desktop\Nueva carpeta (2)\proyectofinalasis222022\Codigo\Componentes\Navegador\Modelo\obj\Debug\Modelo.pdb
